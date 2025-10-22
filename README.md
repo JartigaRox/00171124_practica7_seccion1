@@ -8,4 +8,5 @@ Determina que permisos tiene un usuario autenticado asi como asignar un rol y qu
 
 
 ¿Para que se usan los token en JWT?
+
 Se usan para la autorizacion/autenticacion sin estado como por ejemplo cuando un usuario se autentica se lanza un token que determina que usuario es el que se ha autenticado
